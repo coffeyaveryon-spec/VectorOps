@@ -1,0 +1,28 @@
+A&L Towing — AI Lead Capture & Call Automation Platform
+
+AI-driven inbound call automation system replacing manual lead intake workflows. Deployed conversational AI to capture, qualify, and route inbound calls — enabling 24/7 lead coverage without additional staffing costs.
+
+What It Does
+A&L Towing was losing leads every time a call went unanswered. This system replaced manual call handling with an AI agent that answers every call, captures lead information, qualifies the request, and routes it — 24/7.
+Tech Stack
+LayerTechnologyVoice AIVapi.aiLLMClaude API (Anthropic)TelephonyTwilioAutomationMake.comLead RoutingWebhook-based CRM integrationBackendREST APIs
+Key Features
+
+Instant Answer Rate — every inbound call answered immediately
+Structured Lead Capture — extracts name, number, location, vehicle info, and service type
+Lead Qualification — prioritizes urgent roadside calls vs. standard scheduling
+Automated CRM Entry — lead data written automatically, zero manual entry
+Staff Alerts — real-time notifications to the right team member
+After-Hours Coverage — fully autonomous outside business hours
+
+Results / Impact
+
+Reduced missed inbound calls by 40%+
+Captured 100+ qualified leads through automated intake
+Zero manual data entry required from staff
+Extended effective business hours to 24/7 without additional hiring
+
+Project Status
+Production-deployed. Actively handling inbound calls for towing & roadside services client.
+Contact
+Built by Averyon Coffey — acaidev.org · coffeyaveryon@gmail.com
