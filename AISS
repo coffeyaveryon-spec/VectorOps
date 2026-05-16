@@ -1,0 +1,18 @@
+AISS — Automation Intelligence System Supervisor
+AI-powered business intelligence platform combining RAG pipelines, vector retrieval, workflow automation, and conversational AI for operational analysis and intelligent workflow recommendations.
+What It DoesAISS enables non-technical business operators to query their own business data using natural language and receive structured, actionable insights — without writing a single query or touching a spreadsheet.Users ask questions like:
+
+"What were the top issues from last week's customer interactions?"
+"Which workflows have the highest drop-off rate?"
+"Summarize this month's operational bottlenecks."
+Tech StackLayerTechnologyLLMClaude API (Anthropic)RAG FrameworkLangChainVector StoreChromaDBEmbeddingsCustom embedding pipelineAutomationn8n / Make.comBackendPython / FastAPIAPIsREST, WebhooksKey Features
+RAG Pipeline — documents chunked, embedded, and stored for fast semantic retrieval
+Intent Classification — routes queries to the correct data source or workflow
+Conversational Interface — multi-turn dialogue with memory across a session
+Workflow Recommendations — suggests specific automation or process improvements
+Non-technical UX — designed for operators, not engineers
+Results / Impact
+Enabled business owners to query operational data without analyst support
+Reduced time-to-insight from hours to seconds on recurring operational questions
+Integrated with workflow automation tools to trigger downstream actions from AI recommendations
+Project StatusProduction-deployed for internal business operations use.ContactBuilt by Averyon Coffey — acaidev.org · coffeyaveryon@gmail.com
