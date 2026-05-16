@@ -1,0 +1,28 @@
+Zanzibar Blu — Multi-Agent AI Reservation System
+
+Multi-agent AI platform automating hospitality reservations and customer support operations. Integrates natural language understanding, dynamic availability logic, and backend booking workflows.
+
+What It Does
+Zanzibar Blu replaces manual front-desk reservation handling with a 24/7 AI system that takes bookings, answers guest questions, checks availability, and manages the full reservation lifecycle — without human intervention.
+Tech Stack
+LayerTechnologyLLMClaude API (Anthropic)Voice AIVapi.aiTelephonyTwilioAutomationMake.comBackendREST APIs / WebhooksMemoryConversation state management
+Key Features
+
+24/7 Availability — handles reservations and inquiries around the clock
+Multi-Agent Routing — separate agents handle reservations, support, and escalation
+Voice AI Integration — natural phone conversations via Vapi and Twilio
+Dynamic Availability — real-time availability checks in the booking flow
+Automated Confirmations — sent automatically on successful reservation
+Human Escalation — graceful handoff to staff for complex requests
+
+Results / Impact
+
+Automated 100+ customer interactions weekly
+Eliminated dependency on manual front-desk availability for routine reservations
+Reduced guest response time from hours to seconds
+Zero missed bookings during off-hours
+
+Project Status
+Production-deployed for hospitality client. Live and handling real guest interactions.
+Contact
+Built by Averyon Coffey — acaidev.org · coffeyaveryon@gmail.com
